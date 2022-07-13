@@ -1,0 +1,5 @@
+build
+allure-results
+target
+SeleniumTestProject.iml
+.idea
