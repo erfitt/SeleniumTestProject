@@ -8,7 +8,7 @@ import pageObjects.LoginPage;
 @Listeners({ScreenShooter.class})
 public class CreateFarmTest extends BaseTest {
 
-    private final String farmName = "MyNewFarm3";
+    private final String farmName = "MyNewFarm4";
     private final String country = "Israel";
     private final String state = "Haifa";
     private final String timezone = "(UTC+02:00) Beirut";
